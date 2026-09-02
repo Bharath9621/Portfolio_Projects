@@ -25,6 +25,8 @@ https://drive.google.com/file/d/1b7-_C8Ze5LUlv49c7DqYJYkC_CZzS1v6/view?usp=drive
 The report contains five interactive dashboards:
 
 ### 📌 Executive Dashboard
+<img width="1433" height="797" alt="Exec Dash" src="https://github.com/user-attachments/assets/ae665e7d-54c6-4564-883e-20cb493d2fbd" />
+
 
 Provides a high-level overview of bank performance including:
 
@@ -41,6 +43,7 @@ Provides a high-level overview of bank performance including:
 ---
 
 ### 📌 Credit Risk & Collection Dashboard
+<img width="1433" height="807" alt="Credit Risk and Collection" src="https://github.com/user-attachments/assets/44e8d9c0-9e0f-4851-bc55-bf7ab459ecf7" />
 
 Focuses on portfolio quality and loan recovery.
 
@@ -58,6 +61,7 @@ Key analyses include:
 ---
 
 ### 📌 Branch & Portfolio Performance Dashboard
+<img width="1431" height="809" alt="Branch and Portfolio" src="https://github.com/user-attachments/assets/991b8d86-8bf0-4ff1-b388-958589ff284c" />
 
 Evaluates operational performance across branches.
 
@@ -74,6 +78,7 @@ Includes:
 ---
 
 ### 📌 Customer Analytics & Segmentation Dashboard
+<img width="1421" height="799" alt="Customer Analytics and Segmentation" src="https://github.com/user-attachments/assets/ade4ce9d-c5bb-4a74-9a22-68436ee18612" />
 
 Analyzes customer demographics and lending behavior.
 
@@ -90,6 +95,7 @@ Insights include:
 ---
 
 ### 📌 Fraud & Transaction Intelligence Dashboard
+<img width="1429" height="846" alt="Fraud Analytics" src="https://github.com/user-attachments/assets/6e653b0d-2b51-44f5-adff-188b93a90708" />
 
 Monitors fraud patterns and transaction behavior.
 

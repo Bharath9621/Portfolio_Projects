@@ -1,0 +1,6 @@
+Hospital_ID,Hospital_Name,City,State,Country,Bed_Capacity,Hospital_Type,Operational_Since,Hospital_Tier,Emergency_Level,Trauma_Center,Annual_Patient_Capacity,Annual_Procurement_Budget,Warehouse_ID
+H001,MedCare Bangalore,Bengaluru,Karnataka,India,750,Multi-Specialty,2023-01-01,Tier 1,Level I,Yes,275000,1850000000,WH001
+H002,MedCare Chennai,Chennai,Tamil Nadu,India,650,Multi-Specialty,2023-01-01,Tier 1,Level I,Yes,240000,1650000000,WH002
+H003,MedCare Hyderabad,Hyderabad,Telangana,India,700,Multi-Specialty,2023-01-01,Tier 1,Level I,Yes,255000,1750000000,WH003
+H004,MedCare Mumbai,Mumbai,Maharashtra,India,800,Multi-Specialty,2023-01-01,Tier 1,Level I,Yes,300000,2100000000,WH004
+H005,MedCare Pune,Pune,Maharashtra,India,500,Multi-Specialty,2023-01-01,Tier 2,Level II,No,180000,1200000000,WH005

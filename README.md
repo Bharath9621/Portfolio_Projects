@@ -157,7 +157,7 @@ I'm currently focused on developing analytics solutions in:
 
 # 📂 Repository Structure
 
-```text
+```
 Portfolio-Projects/
 │
 ├── README.md
@@ -168,7 +168,7 @@ Portfolio-Projects/
 │
 ├── Hospital-Supply-Chain-Analytics/
 
-
+```
 ---
 
 # 📬 Connect With Me

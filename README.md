@@ -1,60 +1,67 @@
-# 📊 Data Analytics Portfolio
-
-Welcome to my Data Analytics Portfolio! This repository showcases end-to-end data analytics and business intelligence projects that demonstrate my ability to solve real-world business problems using SQL, Python, Power BI, and data visualization techniques.
-
-Each project follows a structured analytics workflow, including data validation, relational database design, business analysis, KPI development, and interactive dashboard creation.
-
----
-
-## 👨‍💻 About Me
-
-I am a Data Analyst passionate about transforming raw data into meaningful business insights. My expertise includes SQL, Python, Power BI, DAX, Excel, and data visualization, with experience in designing analytical solutions that support strategic decision-making.
+<p align="center">
+  <h1 align="center">📊 Data Analytics Portfolio</h1>
+  <h3 align="center">
+    SQL • Python • Power BI • Data Warehousing • Business Intelligence
+  </h3>
+  <p align="center">
+    End-to-end analytics projects solving real-world business problems through data engineering, business intelligence, and interactive dashboards.
+  </p>
+</p>
 
 ---
 
-# 🛠 Technical Skills
+# 👋 Welcome
 
-- **Programming:** Python
-- **Databases:** SQL Server, MySQL
-- **Data Analysis:** Pandas, NumPy
-- **Business Intelligence:** Power BI, DAX
-- **Visualization:** Power BI, Excel
-- **Database Design:** Relational Modeling, Star Schema
-- **Version Control:** Git & GitHub
+Hi, I'm **Bharath Venkatesh**.
+
+I'm a Data Analyst passionate about transforming raw data into actionable business insights through SQL, Python, Power BI, and modern data warehousing techniques.
+
+This repository contains my end-to-end analytics projects, covering the complete analytics lifecycle—from raw data preparation and database design to business intelligence dashboards and executive reporting.
+
+Each project is designed to simulate real-world business scenarios across different industries while following enterprise-level analytics practices.
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Technologies | Description |
-|---------|--------------|-------------|
-| 🏥 **Hospital Supply Chain Analytics** | SQL Server, Python, Power BI, DAX | End-to-end Business Intelligence solution for procurement, finance, inventory, and vendor performance analytics. |
-| 💰 **Bank Loan Analytics** *(Coming Soon)* | SQL, Python, Power BI | Loan portfolio analysis, credit risk monitoring, and customer insights. |
-| 🛒 **Customer Shopping Behavior Analytics** *(Coming Soon)* | SQL, Python, Power BI | Customer segmentation, purchasing trends, and sales performance analysis. |
+| Project | Domain | Technologies | Highlights |
+|----------|--------|--------------|------------|
+| 🏦 **Whitefield Bank Analytics Platform** | Banking | SQL Server, Python, Power BI, DAX | Enterprise banking analytics platform with OLTP database, ETL, Data Warehouse, Star Schema, Python EDA, Credit Risk Analytics, Fraud Detection, Customer Segmentation, and Executive Dashboards. |
+| 🛒 **Customer Shopping Behavior Analytics**  | Retail | SQL, Python, Power BI | Customer segmentation, purchasing trends, sales analytics, and business intelligence dashboards. |
+| 🏥 **Hospital Supply Chain Analytics** | Healthcare | SQL Server, Python, Power BI | Procurement analytics, inventory optimization, financial analysis, and vendor performance monitoring. |
 
 ---
 
 # 📈 Analytics Workflow
 
-Each project follows a structured analytics lifecycle:
+Every project follows a structured analytics pipeline inspired by enterprise data teams.
 
-```
+```text
 Business Problem
         │
         ▼
-Data Collection / Preparation
+Raw Data Collection
         │
         ▼
 Data Validation & Cleaning (Python)
         │
         ▼
-Relational Database Design (SQL Server)
+SQL Server Database Design
         │
         ▼
-Data Modeling
+ETL Pipeline
         │
         ▼
-Business Intelligence Dashboards (Power BI)
+Enterprise Data Warehouse
+        │
+        ▼
+Star Schema Modeling
+        │
+        ▼
+Business Analytics
+        │
+        ▼
+Power BI Dashboards
         │
         ▼
 Business Insights & Recommendations
@@ -62,36 +69,115 @@ Business Insights & Recommendations
 
 ---
 
-# 🎯 What You'll Find in Each Project
+# 🛠 Technical Skills
 
-- Business Problem Statement
-- Dataset Overview
+### Programming
+
+- Python
+
+### Databases
+
+- SQL Server
+- MySQL
+
+### SQL
+
+- Joins
+- CTEs
+- Window Functions
+- Views
+- Query Optimization
+- Database Design
+
+### Data Engineering
+
+- ETL
 - Data Validation
-- SQL Database Design
-- SQL Business Queries
-- Power BI Dashboards
-- DAX Measures
-- Business Insights
-- Documentation
+- Data Cleaning
+- Data Warehousing
+- Star Schema
+- Relational Modeling
+
+### Data Analytics
+
+- Pandas
+- NumPy
+- Exploratory Data Analysis
+- Feature Engineering
+- Statistical Analysis
+
+### Business Intelligence
+
+- Power BI
+- DAX
+- Dashboard Design
+- KPI Development
+- Data Storytelling
+
+### Version Control
+
+- Git
+- GitHub
 
 ---
 
-# 🚀 Current Focus
+# 🎯 What You'll Find in Every Project
 
+Each project repository contains:
+
+- 📌 Business Problem Statement
+- 📊 Dataset Overview
+- 🧹 Data Cleaning & Validation
+- 🗄 SQL Database Design
+- 🔄 ETL Development
+- ⭐ Star Schema & Data Warehouse
+- 💻 Advanced SQL Queries
+- 🐍 Python Exploratory Data Analysis
+- 📈 Business Insights
+- 📊 Interactive Power BI Dashboards
+- 📑 Documentation
+
+---
+
+# 🌟 Current Focus
+
+I'm currently focused on developing analytics solutions in:
+
+- Banking Analytics
 - Business Intelligence
-- SQL Optimization
+- Credit Risk Analytics
+- Fraud Detection
+- Customer Analytics
+- Data Warehousing
+- SQL Performance Optimization
 - Power BI Dashboard Development
-- Data Visualization
-- Business Analytics
 - Data Storytelling
+
+---
+
+# 📂 Repository Structure
+
+```text
+Portfolio-Projects/
+│
+├── README.md
+│
+├── Whitefield-Bank-Analytics/
+│
+├── Customer-Shopping-Analytics/
+│
+├── Hospital-Supply-Chain-Analytics/
+
 
 ---
 
 # 📬 Connect With Me
 
 - **LinkedIn:** www.linkedin.com/in/bharath-venkatesh-561086203
-- **Email:** <bharathvenkatesh.2012@gmail.com>
+- **Email:** bharathvenkatesh.2012@gmail.com
 
 ---
 
-⭐ Thank you for visiting my portfolio! Feedback and suggestions are always welcome.
+<p align="center">
+⭐ Thank you for visiting my portfolio! Feel free to explore the projects and share your feedback.
+</p>
